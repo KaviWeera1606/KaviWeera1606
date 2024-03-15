@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java/Java Script/ Appium / Selenium
 - 🌱 I’m currently learning from the beginning to learn Software QA Automation for Web + Mobile
 - 💞️ I’m looking to collaborate with anyone willing to help and seeking help.
-- 📫 How to reach me kavi1606@gmail.omc
+- 📫 How to reach me kavi1606@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
